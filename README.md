@@ -2,7 +2,7 @@
 
 一個使用 **Qt Widgets** 開發的輕量小畫家專案。支援滑鼠自由繪圖、載入/儲存圖片、清除畫布、調整畫筆顏色與粗細。
 
-🎥 Demo 影片：[YouTube](https://youtu.be/7vUoPLrOI60)
+▶️ Demo 影片：[YouTube](https://youtu.be/7vUoPLrOI60)
 
 ---
 

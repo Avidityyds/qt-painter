@@ -17,11 +17,11 @@
 ---
 
 ## 📂 專案結構
-painter.pro # qmake 專案檔   
-src/main.cpp # 進入點  
-src/MainWindow.h # 主視窗類別宣告  
-src/MainWindow.cpp # 主視窗邏輯 (繪圖/事件/功能)  
-ui/MainWindow.ui # 視覺化介面 (Qt Designer)  
-README.md # 說明文件  
-
----
+```text
+painter.pro          # qmake 專案檔   
+src/main.cpp         # 進入點  
+src/MainWindow.h     # 主視窗類別宣告  
+src/MainWindow.cpp   # 主視窗邏輯 (繪圖/事件/功能)  
+ui/MainWindow.ui     # 視覺化介面 (Qt Designer)  
+README.md            # 專案說明
+LICENSE              # 授權條款
